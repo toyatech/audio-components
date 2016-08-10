@@ -9,10 +9,10 @@
     <circle cx="1300" cy="1550" r="1200" fill="none" stroke="black" stroke-width="25"/>
     <circle cx="1300" cy="1550" r="1100" fill="none" stroke="black" stroke-width="25"/>
     <circle cx="1300" cy="1550" r="980" fill="none" stroke="black" stroke-width="25"/>
-    <circle cx="325" cy="325" r="300" fill="none" stroke="black" stroke-width="25"/>
-    <line x1="125" y1="325" x2="525" y2="325" stroke="black" stroke-width="75"/>
-    <line x1="325" y1="125" x2="325" y2="525" stroke="black" stroke-width="75"/>
-    <circle cx="1975" cy="2925" r="300" fill="none" stroke="black" stroke-width="25"/>
+    <circle cx="350" cy="350" r="250" fill="none" stroke="black" stroke-width="25"/>
+    <line x1="175" y1="350" x2="525" y2="350" stroke="black" stroke-width="75"/>
+    <line x1="350" y1="175" x2="350" y2="525" stroke="black" stroke-width="75"/>
+    <circle cx="2300" cy="2700" r="250" fill="none" stroke="black" stroke-width="25"/>
     <line x1="2125" y1="2700" x2="2475" y2="2700" stroke="black" stroke-width="75"/>
     <line x1="2300" y1="2525" x2="2300" y2="2875" stroke="black" stroke-width="75"/>
     <circle cx="895" cy="1550" r="175" fill="black" stroke="black" stroke-width="25"/>
