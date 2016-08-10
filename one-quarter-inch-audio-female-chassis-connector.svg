@@ -1,23 +1,20 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="17mm" height="17mm" viewBox="0 0 1700 1700"
+<svg width="18mm" height="18mm" viewBox="0 0 1800 1800"
      xmlns="http://www.w3.org/2000/svg" version="1.1">
   <desc>1/4 in. Audio Female Chassis Connector</desc>
 
-  <circle cx="850" cy="850" r="425"
+  <circle cx="900" cy="900" r="425"
     fill="black" stroke="black" stroke-width="25"/>
 
-  <circle cx="850" cy="850" r="550"
+  <circle cx="900" cy="900" r="550"
     fill="none" stroke="black" stroke-width="25"/>
 
-  <circle cx="850" cy="850" r="830"
+  <circle cx="900" cy="900" r="866.0255"
     fill="none" stroke="black" stroke-width="25"/>
 
-  <line x1="850" y1="0" x2="1500" y2="375"
-    stroke="black" stroke-width="25"/>
-
-  <line x1="1500" y1="375" x2="1500" y2="1100"
-    stroke="black" stroke-width="25"/>
+  <polygon points="183.9745,433 866.0255,67.949 1616.0255,433 1616.0255,1366.974 866.0255,1732.051 183.9745,1366.974"
+    fill="none" stroke="black" stroke-width="25"/>
 
 </svg>
