@@ -1,44 +1,37 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="26mm" height="31mm" viewBox="0 0 2600 3100"
-     xmlns="http://www.w3.org/2000/svg" version="1.1">
-  <desc>Neutrik XLR Female Chassis Connector</desc>
+<svg width="4000mm" height="500mm" viewBox="0 0 400000 50000"
+     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+  <desc>Mackie SR24•4-VLZ PRO</desc>
 
-  <circle cx="1300" cy="1550" r="1200"
-    fill="none" stroke="black" stroke-width="25"/>
+  <defs>
 
-  <circle cx="1300" cy="1550" r="1100"
-    fill="none" stroke="black" stroke-width="25"/>
+    <g id="neutrik-xlr-female" name="Neutrik XLR Female">
+      <circle cx="1300" cy="1550" r="1200" fill="none" stroke="black" stroke-width="25"/>
+      <circle cx="1300" cy="1550" r="1100" fill="none" stroke="black" stroke-width="25"/>
+      <circle cx="1300" cy="1550" r="980" fill="none" stroke="black" stroke-width="25"/>
+      <circle cx="350" cy="350" r="250" fill="none" stroke="black" stroke-width="25"/>
+      <line x1="175" y1="350" x2="525" y2="350" stroke="black" stroke-width="75"/>
+      <line x1="350" y1="175" x2="350" y2="525" stroke="black" stroke-width="75"/>
+      <circle cx="2300" cy="2700" r="250" fill="none" stroke="black" stroke-width="25"/>
+      <line x1="2125" y1="2700" x2="2475" y2="2700" stroke="black" stroke-width="75"/>
+      <line x1="2300" y1="2525" x2="2300" y2="2875" stroke="black" stroke-width="75"/>
+      <circle cx="895" cy="1550" r="175" fill="black" stroke="black" stroke-width="25"/>
+      <circle cx="1705" cy="1550" r="175" fill="black" stroke="black" stroke-width="25"/>
+      <circle cx="1300" cy="1955" r="175" fill="black" stroke="black" stroke-width="25"/>
+    </g>
 
-  <circle cx="1300" cy="1550" r="980"
-    fill="none" stroke="black" stroke-width="25"/>
+    <g id="trs-633mm-female" name="TRS 6.33mm Female">
+      <circle cx="900" cy="900" r="425" fill="black" stroke="black" stroke-width="25"/>
+      <circle cx="900" cy="900" r="550" fill="none" stroke="black" stroke-width="25"/>
+      <circle cx="900" cy="900" r="866.0255" fill="none" stroke="black" stroke-width="25"/>
+      <polygon points="183.9745,433 866.0255,67.949 1616.0255,433 1616.0255,1366.974 866.0255,1732.051 183.9745,1366.974" fill="none" stroke="black" stroke-width="25"/>
+    </g>
 
-  <circle cx="350" cy="350" r="250" 
-    fill="none" stroke="black" stroke-width="25"/>
+  </defs>
 
-  <line x1="175" y1="350" x2="525" y2="350"
-    stroke="black" stroke-width="75"/>
-
-  <line x1="350" y1="175" x2="350" y2="525"
-    stroke="black" stroke-width="75"/>
-
-  <circle cx="2300" cy="2700" r="250"
-    fill="none" stroke="black" stroke-width="25"/>
-
-  <line x1="2125" y1="2700" x2="2475" y2="2700"
-    stroke="black" stroke-width="75"/>
-
-  <line x1="2300" y1="2525" x2="2300" y2="2875"
-    stroke="black" stroke-width="75"/>
-
-  <circle cx="895" cy="1550" r="175"
-    fill="black" stroke="black" stroke-width="25"/>
-
-  <circle cx="1705" cy="1550" r="175"
-    fill="black" stroke="black" stroke-width="25"/>
-
-  <circle cx="1300" cy="1955" r="175"
-    fill="black" stroke="black" stroke-width="25"/>
+  <use x="100" y="100" xlink:href="#neutrik-xlr-female"/>
+  <use x="4000" y="4000" xlink:href="#trs-633mm-female"/>
 
 </svg>
